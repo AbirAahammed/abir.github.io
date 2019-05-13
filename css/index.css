@@ -10,6 +10,8 @@ body{
   transform:rotate(45deg);
   animation:b 6s infinite;
 }
+
+
 #rock2{
   position:absolute;
   left:200px;
